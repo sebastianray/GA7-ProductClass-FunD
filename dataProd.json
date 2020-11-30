@@ -1,0 +1,26 @@
+[
+   {
+      "name": "Spotify",
+      "icon": "https://www.logo.wine/a/logo/Spotify/Spotify-Icon-White-Dark-Background-Logo.wine.svg",
+      "backdrop": "https://www.soft32.com/blog/wp-content/uploads/2016/08/spotify_logo.png",
+      "details": "Spotify is a digital music, podcast, and video streaming service that gives you access to millions of songs and other content from artists all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium."
+   },
+   {
+      "name": "Netflix",
+      "icon": "https://www.logo.wine/a/logo/Netflix/Netflix-Logo.wine.svg",
+      "backdrop": "https://media.idownloadblog.com/wp-content/uploads/2018/01/Netflix-Logo.png",
+      "details": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more."
+   },
+   {
+      "name": "Disney+",
+      "icon": "https://www.logo.wine/a/logo/Disney%2B/Disney%2B-Logo.wine.svg",
+      "backdrop": "https://awesomemovies.org/wp-content/uploads/2019/09/disney-featured.jpg",
+      "details": "Disney+ is the exclusive home for your favorite movies and TV shows from Disney, Pixar, Marvel, Star Wars, and National Geographic."
+   },
+   {
+      "name": "HBO max",
+      "icon": "https://www.logo.wine/a/logo/HBO_Max/HBO_Max-Logo.wine.svg",
+      "backdrop": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/hbo-logo.png",
+      "details": "Say hello to HBO Max, the streaming platform that bundles all of HBO together with even more of your favorite movies and TV series, plus new Max Originals."
+   }
+]

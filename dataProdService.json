@@ -1,0 +1,57 @@
+[
+    { 
+      "service_type": "Spotify Individual", 
+      "cost": 49990, 
+      "repeat": "MONTHLY",
+      "ProductsId": 1  
+    },
+    { 
+      "service_type": "Spotify Family", 
+      "cost": 79990, 
+      "repeat": "MONTHLY",
+      "ProductsId": 1 
+    },
+    { 
+      "service_type": "Spotify Student", 
+      "cost": 29990, 
+      "repeat": "MONTHLY",
+      "ProductsId": 1 
+    },
+    { 
+      "service_type": "Netflix Mobile", 
+      "cost": 49000, 
+      "repeat": "MONTHLY",
+      "ProductsId": 2 
+    },
+    { 
+      "service_type": "Netflix Basic", 
+      "cost": 109000, 
+      "repeat": "MONTHLY",
+      "ProductsId": 2 
+    },
+    { 
+      "service_type": "Netflix Standard", 
+      "cost": 139000, 
+      "repeat": "MONTHLY",
+      "ProductsId": 2 
+    },
+    { 
+      "service_type": "Netflix Premium", 
+      "cost": 169000, 
+      "repeat": "MONTHLY",
+      "ProductsId": 2 
+    },
+    { 
+      "service_type": "Disney+ ",
+      "cost": 39000, 
+      "repeat": "MONTHLY",
+      "ProductsId": 3
+    },
+    { 
+      "service_type": "HBO Max",
+      "cost": 245000, 
+      "repeat": "MONTHLY",
+      "ProductsId": 4
+    }
+
+]

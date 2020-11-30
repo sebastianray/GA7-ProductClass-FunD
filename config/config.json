@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "fundapp_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "dialect-options": {
+      "useUTC": false
+    },
+    "timezone": "Asia/Jakarta"
+    
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "fundapp_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "oytrxgtwfokncf",
+    "password": "e4dca9e0326b885cd5a8d7b5044a3a758947c630be6e1efb690ac77b87de46db",
+    "database": "d9bpdq2ed42jf5",
+    "host": "ec2-18-210-90-1.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialect-options": {
+      "useUTC": false
+    },
+    "timezone": "Asia/Jakarta"
+  }
+}
